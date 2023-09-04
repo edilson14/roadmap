@@ -62,7 +62,7 @@ Após seguir os passos da sessão anterior, chegou a hora de usar as ferramentas
 
 ## Cursos pagos
 
-- [Flutter para iniciantes](https://masterclass.flutterando.com.br/public/products/8f64d9b5-e1fb-4cf0-86a0-2e04c4580a5b)
+- [Flutter para iniciantes](https://masterclass.flutterando.com.br/flutter-iniciante-2)
 - [Curso de Flutter (COD3R)](https://flutterando.page.link/rniX)
 
 # Roadmap
@@ -154,9 +154,11 @@ O StatefulWidget concede ao Widget a possibilidade de gerenciar o próprio estad
 
 - [AULÃO sobre gerência de estado (Flutterando)](https://www.youtube.com/watch?v=_F0GI2dnt-g)
 - [ValueNotifier. A reatividade mais rápida do Flutter](https://www.youtube.com/watch?v=S1PgnMqVgsM)
+- [Curso de gerência de estadi com ValueNotifier (Flutterando)](https://www.youtube.com/playlist?list=PLlBnICoI-g-eG0eVkHu2IaO48TljxPjPq)
 - [AULÃO sobre BLoC (Flutterando)](https://www.youtube.com/watch?v=UB28e59GmK8)
-- [AULÃO sobre MobX](https://www.youtube.com/watch?v=Z6U6L9e8gmE)
-- [AULÃO sobre Triple](https://www.youtube.com/watch?v=CS97q2PwjSo)
+- [AULÃO sobre MobX (Flutterando)](https://www.youtube.com/watch?v=Z6U6L9e8gmE)
+- [AULÃO sobre Triple (Flutterando)](https://www.youtube.com/watch?v=CS97q2PwjSo)
+
 
 ## Arquitetura
 
